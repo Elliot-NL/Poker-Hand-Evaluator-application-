@@ -226,4 +226,3 @@ namespace Poker_Hand_Calculator
         }
     }
 }
-//Copy and paste contents of zip
